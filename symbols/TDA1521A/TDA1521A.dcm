@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TDA1521A
+D 2x6W hi-fi audio power amplifier
+K amplifier,audio,hifi,hi-fi,dual
+F http://www.ben.cz/_d/datasheet/tda1521a.pdf
+$ENDCMP
+#
+#End Doc Library
