@@ -15,6 +15,10 @@ Symbols are provided as individual KiCad libraries.
 
 ![TO-220 5-lead](models/TO-220%205-lead/TO-220%205-lead.png)
 
+### [TO-220 5-lead pitch-aligned at end of leads](https://rawcdn.githack.com/nabijaczleweli/kicad-lib/master/models/TO-220%205-lead%20pitch-aligned-end/TO-220%205-lead%20pitch-aligned-end.html)
+
+![TO-220 5-lead pitch-aligned-end](models/TO-220%205-lead%20pitch-aligned-end/TO-220%205-lead%20pitch-aligned-end.png)
+
 ## Symbols
 
 ### TDA1521A
