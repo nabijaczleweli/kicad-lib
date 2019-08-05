@@ -11,6 +11,10 @@ Symbols are provided as individual KiCad libraries.
 
 ![SOT110-1](models/SOT110-1/SOT110-1.png)
 
+### [TO-220 5-lead](https://rawcdn.githack.com/nabijaczleweli/kicad-lib/master/models/TO-220%205-lead/TO-220%205-lead.html)
+
+![TO-220 5-lead](models/TO-220%205-lead/TO-220%205-lead.png)
+
 ## Symbols
 
 ### TDA1521A
