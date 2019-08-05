@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT1070
+D Monolithic high power switching regulator 5A
+K switching, regulator, supply, buck, boost, flyback, forward, inverting, cuk
+F https://www.mouser.co.uk/datasheet/2/609/10701fe-1269444.pdf
+$ENDCMP
+#
+$CMP LT1071
+D Monolithic high power switching regulator 2.5A
+K switching, regulator, supply, buck, boost, flyback, forward, inverting, cuk
+F https://www.mouser.co.uk/datasheet/2/609/10701fe-1269444.pdf
+$ENDCMP
+#
+#End Doc Library

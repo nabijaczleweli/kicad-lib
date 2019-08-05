@@ -3,7 +3,7 @@ Web was missing some symbols and/or models for some electronics components I was
 
 3D models are provided as a [SOLVESPACE](//solvespace.com) model and a STEP file, which can be used directly by KiCad.
 
-symbols are provided as individual KiCad libraries.
+Symbols are provided as individual KiCad libraries.
 
 ## 3D models
 
@@ -16,6 +16,10 @@ symbols are provided as individual KiCad libraries.
 ### TDA1521A
 
 ![TDA1521A](symbols/TDA1521A/TDA1521A.png)
+
+### LT1070/LT1071
+
+![LT1070](symbols/LT1070/LT1070.png)
 
 ## Special thanks
 
