@@ -1,9 +1,11 @@
 # kicad-lib [![Licence](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
-Web was missing some symbols and/or models for some electronics components I was using: that's them
+Web was missing some symbols/models/footprints for some electronics components I was using: that's them
 
 3D models are provided as a [SOLVESPACE](//solvespace.com) model and a STEP file, which can be used directly by KiCad.
 
 Symbols are provided as individual KiCad libraries.
+
+Footprints are provided as individual importable `.kicad_mod`s.
 
 ## 3D models
 
@@ -15,9 +17,9 @@ Symbols are provided as individual KiCad libraries.
 
 ![TO-220 5-lead](models/TO-220%205-lead/TO-220%205-lead.png)
 
-### [TO-220 5-lead pitch-aligned at end of leads](https://rawcdn.githack.com/nabijaczleweli/kicad-lib/master/models/TO-220%205-lead%20pitch-aligned-end/TO-220%205-lead%20pitch-aligned-end.html)
+### [TO-220 5-lead pitch-aligned at end of shortest lead](https://rawcdn.githack.com/nabijaczleweli/kicad-lib/master/models/TO-220%205-lead%20pitch-aligned-end/TO-220%205-lead%20pitch-aligned-end.html)
 
-![TO-220 5-lead pitch-aligned-end](models/TO-220%205-lead%20pitch-aligned-end/TO-220%205-lead%20pitch-aligned-end.png)
+![TO-220 5-lead pitch-aligned at end of shortest lead](models/TO-220%205-lead%20pitch-aligned-end/TO-220%205-lead%20pitch-aligned-end.png)
 
 ## Symbols
 
@@ -28,6 +30,13 @@ Symbols are provided as individual KiCad libraries.
 ### LT1070/LT1071
 
 ![LT1070](symbols/LT1070/LT1070.png)
+
+## Footprints
+
+### TO-220 5-lead pitch-aligned at end of shortest lead
+
+![Footprint for TO-220 5-lead pitch-aligned at end of shortest lead](footprints/TO-220-5_PitchAligned/TO-220-5_PitchAligned.png)
+![Footprint for and model of TO-220 5-lead pitch-aligned at end of shortest lead](footprints/TO-220-5_PitchAligned/with%20model.png)
 
 ## Special thanks
 
