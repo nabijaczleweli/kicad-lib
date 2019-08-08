@@ -25,6 +25,10 @@ Footprints are provided as individual importable `.kicad_mod`s.
 
 ![L_Radial_D6.8mm_5.0mm_P2.54mm_sleeved](models/L_Radial_D6.8mm_5.0mm_P2.54mm_sleeved/L_Radial_D6.8mm_5.0mm_P2.54mm_sleeved.png)
 
+### [L_Toroid_Vertical_L14.5mm_W7.0mm_P3.59mm](https://rawcdn.githack.com/nabijaczleweli/kicad-lib/master/models/L_Toroid_Vertical_L14.5mm_W7.0mm_P3.59mm/L_Toroid_Vertical_L14.5mm_W7.0mm_P3.59mm.html)
+
+![L_Toroid_Vertical_L14.5mm_W7.0mm_P3.59mm](models/L_Toroid_Vertical_L14.5mm_W7.0mm_P3.59mm/L_Toroid_Vertical_L14.5mm_W7.0mm_P3.59mm.png)
+
 ## Symbols
 
 ### TDA1521A
