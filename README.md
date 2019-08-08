@@ -42,6 +42,11 @@ Footprints are provided as individual importable `.kicad_mod`s.
 ![Footprint for TO-220 5-lead pitch-aligned at end of shortest lead](footprints/TO-220-5_PitchAligned/TO-220-5_PitchAligned.png)
 ![Footprint for and model of TO-220 5-lead pitch-aligned at end of shortest lead](footprints/TO-220-5_PitchAligned/with%20model.png)
 
+### L_Radial_D6.8mm_5.0mm_P2.54mm_sleeved
+
+![Footprint for L_Radial_D6.8mm_5.0mm_P2.54mm_sleeved](footprints/L_Radial_D6.8mm_5.0mm_P2.54mm_sleeved/L_Radial_D6.8mm_5.0mm_P2.54mm_sleeved.png)
+![Footprint for and model of L_Radial_D6.8mm_5.0mm_P2.54mm_sleeved](footprints/L_Radial_D6.8mm_5.0mm_P2.54mm_sleeved/with%20model.png)
+
 ## Special thanks
 
 To all who support further development on Patreon, in particular:
