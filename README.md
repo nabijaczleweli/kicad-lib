@@ -21,6 +21,10 @@ Footprints are provided as individual importable `.kicad_mod`s.
 
 ![TO-220 5-lead pitch-aligned at end of shortest lead](models/TO-220%205-lead%20pitch-aligned-end/TO-220%205-lead%20pitch-aligned-end.png)
 
+### [L_Radial_D6.8mm_5.0mm_P2.54mm_sleeved](https://rawcdn.githack.com/nabijaczleweli/kicad-lib/master/models/L_Radial_D6.8mm_5.0mm_P2.54mm_sleeved/L_Radial_D6.8mm_5.0mm_P2.54mm_sleeved.html)
+
+![L_Radial_D6.8mm_5.0mm_P2.54mm_sleeved](models/L_Radial_D6.8mm_5.0mm_P2.54mm_sleeved/L_Radial_D6.8mm_5.0mm_P2.54mm_sleeved.png)
+
 ## Symbols
 
 ### TDA1521A
