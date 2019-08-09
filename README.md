@@ -51,6 +51,11 @@ Footprints are provided as individual importable `.kicad_mod`s.
 ![Footprint for L_Radial_D6.8mm_5.0mm_P2.54mm_sleeved](footprints/L_Radial_D6.8mm_5.0mm_P2.54mm_sleeved/L_Radial_D6.8mm_5.0mm_P2.54mm_sleeved.png)
 ![Footprint for and model of L_Radial_D6.8mm_5.0mm_P2.54mm_sleeved](footprints/L_Radial_D6.8mm_5.0mm_P2.54mm_sleeved/with%20model.png)
 
+### L_Toroid_Vertical_L14.5mm_W7.0mm_P7.18mm
+
+![Footprint for L_Toroid_Vertical_L14.5mm_W7.0mm_P7.18mm](footprints/L_Toroid_Vertical_L14.5mm_W7.0mm_P7.18mm/L_Toroid_Vertical_L14.5mm_W7.0mm_P7.18mm.png)
+![Footprint for and model of L_Toroid_Vertical_L14.5mm_W7.0mm_P7.18mm](footprints/L_Toroid_Vertical_L14.5mm_W7.0mm_P7.18mm/with%20model.png)
+
 ## Special thanks
 
 To all who support further development on Patreon, in particular:
