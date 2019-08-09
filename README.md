@@ -60,6 +60,11 @@ Footprints are provided as individual importable `.kicad_mod`s.
 ![Footprint for L_Toroid_Vertical_L14.5mm_W7.0mm_P7.18mm](footprints/L_Toroid_Vertical_L14.5mm_W7.0mm_P7.18mm/L_Toroid_Vertical_L14.5mm_W7.0mm_P7.18mm.png)
 ![Footprint for and model of L_Toroid_Vertical_L14.5mm_W7.0mm_P7.18mm](footprints/L_Toroid_Vertical_L14.5mm_W7.0mm_P7.18mm/with%20model.png)
 
+### Heatsink_Aavid-5342-TO220_Vertical
+
+![Footprint for Heatsink_Aavid-5342-TO220_Vertical](footprints/Heatsink_Aavid-5342-TO220_Vertical/Heatsink_Aavid-5342-TO220_Vertical.png)
+![Footprint for and model of Heatsink_Aavid-5342-TO220_Vertical](footprints/Heatsink_Aavid-5342-TO220_Vertical/with%20model.png)
+
 ## Special thanks
 
 To all who support further development on Patreon, in particular:
