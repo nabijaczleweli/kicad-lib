@@ -1,4 +1,4 @@
-# L_Toroid_Vertical_L14.5mm_W7.0mm_P3.59mm
+# L_Toroid_Vertical_L14.5mm_W7.0mm_P7.18mm
 
 | Property                     | Value                                           |
 | --------                     | -----                                           |
@@ -18,4 +18,4 @@
 
 Winding step distribution is half for corners (=> each one is eighth), rest for short straights
 
-The center-to-center lead distance came out to 7.05 on the model, but that's mostly within tolerance
+The center-to-center lead distance is 7.18 at 3.5mm below the outer edge of the core, a sad byproduct of how I assembled the windings and having already spent and entire day on this model and I'm sick of looking at it
