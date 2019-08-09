@@ -25,9 +25,13 @@ Footprints are provided as individual importable `.kicad_mod`s.
 
 ![L_Radial_D6.8mm_5.0mm_P2.54mm_sleeved](models/L_Radial_D6.8mm_5.0mm_P2.54mm_sleeved/L_Radial_D6.8mm_5.0mm_P2.54mm_sleeved.png)
 
-### [L_Toroid_Vertical_L14.5mm_W7.0mm_P3.59mm](https://rawcdn.githack.com/nabijaczleweli/kicad-lib/master/models/L_Toroid_Vertical_L14.5mm_W7.0mm_P3.59mm/L_Toroid_Vertical_L14.5mm_W7.0mm_P3.59mm.html)
+### [L_Toroid_Vertical_L14.5mm_W7.0mm_P7.18mm](https://rawcdn.githack.com/nabijaczleweli/kicad-lib/master/models/L_Toroid_Vertical_L14.5mm_W7.0mm_P7.18mm/L_Toroid_Vertical_L14.5mm_W7.0mm_P7.18mm.html)
 
-![L_Toroid_Vertical_L14.5mm_W7.0mm_P3.59mm](models/L_Toroid_Vertical_L14.5mm_W7.0mm_P3.59mm/L_Toroid_Vertical_L14.5mm_W7.0mm_P3.59mm.png)
+![L_Toroid_Vertical_L14.5mm_W7.0mm_P7.18mm](models/L_Toroid_Vertical_L14.5mm_W7.0mm_P7.18mm/L_Toroid_Vertical_L14.5mm_W7.0mm_P7.18mm.png)
+
+### [Aavid twist-finned TO-220 heatsink](https://rawcdn.githack.com/nabijaczleweli/kicad-lib/master/models/Aavid%20twist-finned%20TO-220%20heatsink/Aavid%20twist-finned%20TO-220%20heatsink.html)
+
+![Aavid twist-finned TO-220 heatsink](models/Aavid%20twist-finned%20TO-220%20heatsink/Aavid%20twist-finned%20TO-220%20heatsink.png)
 
 ## Symbols
 
