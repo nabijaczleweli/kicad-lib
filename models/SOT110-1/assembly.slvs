@@ -37,7 +37,6 @@ Group.allowRedundant=0
 Group.allDimsReference=0
 Group.scale=1.00000000000000000000
 Group.remap={
-    0 00010000 0
     1 00010001 0
     2 00010020 0
     3 00020000 0
@@ -512,6 +511,7 @@ Group.remap={
     472 800f003c 0
     473 800f003d 0
     474 800f003e 0
+    475 00010000 0
 }
 Group.impFileRel=body.slvs
 AddGroup
@@ -533,7 +533,6 @@ Group.allowRedundant=0
 Group.allDimsReference=0
 Group.scale=1.00000000000000000000
 Group.remap={
-    0 00010000 0
     1 00010001 0
     2 00010020 0
     3 00020000 0
@@ -939,6 +938,7 @@ Group.remap={
     403 80030125 0
     404 80030126 0
     405 80030127 0
+    406 00010000 0
 }
 Group.impFileRel=tab.slvs
 AddGroup
@@ -960,7 +960,6 @@ Group.allowRedundant=1
 Group.allDimsReference=0
 Group.scale=1.00000000000000000000
 Group.remap={
-    0 00010000 0
     1 00010001 0
     2 00010020 0
     3 00020000 0
@@ -1099,6 +1098,7 @@ Group.remap={
     136 80030060 0
     137 80030061 0
     138 80030062 0
+    139 00010000 0
 }
 Group.impFileRel=pin.slvs
 AddGroup
@@ -1123,7 +1123,6 @@ Group.allowRedundant=0
 Group.allDimsReference=0
 Group.scale=1.00000000000000000000
 Group.remap={
-    0 80050001 0
     1 80050002 0
     2 80050004 0
     3 80050005 0
@@ -2338,6 +2337,7 @@ Group.remap={
     1212 80050088 7
     1213 80050089 7
     1214 8005008a 7
+    1215 80050001 0
 }
 AddGroup
 
@@ -2386,7 +2386,6 @@ Group.allowRedundant=0
 Group.allDimsReference=0
 Group.scale=1.00000000000000000000
 Group.remap={
-    0 00060000 1002
     1 00060001 1002
     2 00060002 1002
     3 00060000 1001
@@ -2467,6 +2466,7 @@ Group.remap={
     78 000d0000 1004
     79 000d0001 1003
     80 000d0002 1003
+    81 00060000 1002
 }
 AddGroup
 
@@ -2719,11 +2719,11 @@ Param.val=0.97306638294586911275
 AddParam
 
 Param.h.v.=4000000d
-Param.val=0.03810105930469828706
+Param.val=0.03810105930469823848
 AddParam
 
 Param.h.v.=4000000e
-Param.val=0.03810105930469826624
+Param.val=0.03810105930469829399
 AddParam
 
 Param.h.v.=4000000f
@@ -12095,19 +12095,10 @@ Entity.actNormal.vz=1.00000000000000000000
 Entity.actVisible=0
 AddEntity
 
-Entity.h.v=80060000
-Entity.type=2010
-Entity.construction=1
-Entity.actPoint.x=-10.16177669529663774028
-Entity.actPoint.y=-3.17000000000000037303
-Entity.actPoint.z=-2.05000000000000026645
-Entity.actVisible=0
-AddEntity
-
 Entity.h.v=80060001
 Entity.type=3010
 Entity.construction=0
-Entity.point[0].v=80060000
+Entity.point[0].v=800604bf
 Entity.actNormal.w=1.00000000000000000000
 Entity.actNormal.vx=-0.00000000000000073967
 Entity.actNormal.vy=-0.00000000000000015691
@@ -23003,6 +22994,15 @@ Entity.actNormal.vz=1.00000000000000000000
 Entity.actVisible=0
 AddEntity
 
+Entity.h.v=800604bf
+Entity.type=2010
+Entity.construction=1
+Entity.actPoint.x=-10.16177669529663774028
+Entity.actPoint.y=-3.17000000000000037303
+Entity.actPoint.z=-2.05000000000000026645
+Entity.actVisible=0
+AddEntity
+
 Entity.h.v=80070000
 Entity.type=10000
 Entity.construction=0
@@ -23028,14 +23028,6 @@ Entity.construction=1
 Entity.actPoint.x=-10.79677669529663752712
 Entity.actPoint.y=-3.16999999999999992895
 Entity.actPoint.z=-1.62000000000000055067
-Entity.actVisible=0
-AddEntity
-
-Entity.h.v=80080000
-Entity.type=11000
-Entity.construction=0
-Entity.point[0].v=80080001
-Entity.point[1].v=80080002
 Entity.actVisible=0
 AddEntity
 
@@ -23728,6 +23720,14 @@ Entity.type=11000
 Entity.construction=0
 Entity.point[0].v=8008004d
 Entity.point[1].v=8008004a
+Entity.actVisible=0
+AddEntity
+
+Entity.h.v=80080051
+Entity.type=11000
+Entity.construction=0
+Entity.point[0].v=80080001
+Entity.point[1].v=80080002
 Entity.actVisible=0
 AddEntity
 
