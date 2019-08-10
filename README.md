@@ -38,6 +38,19 @@ Footprints are provided as individual importable `.kicad_mod`s.
 
 ![Aavid twist-finned TO-220 heatsink](models/Aavid%20twist-finned%20TO-220%20heatsink/Aavid%20twist-finned%20TO-220%20heatsink.png)
 
+### [LED 2x4x7mm](https://rawcdn.githack.com/nabijaczleweli/kicad-lib/master/models/LED%202x4x7mm/LED%202x4x7mm.html)
+
+![LED 2x4x7mm](models/LED%202x4x7mm/LED%202x4x7mm.png)
+
+The default resin colour here is magenta,
+	but you can easily adapt it be anything by changing the RGB values in the following section of [LED 2x4x7mm.wrl](models/LED%202x4x7mm/LED%202x4x7mm.wrl):
+
+```wrl
+        color Color { color [
+          1.0000000000 0.0000000000 1.0000000000,
+        ] }
+```
+
 ## Symbols
 
 ### TDA1521A
