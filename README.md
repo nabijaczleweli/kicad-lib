@@ -1,7 +1,12 @@
 # kicad-lib [![Licence](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 Web was missing some symbols/models/footprints for some electronics components I was using: that's them
 
-3D models are provided as a [SOLVESPACE](//solvespace.com) model and a STEP file, which can be used directly by KiCad.
+3D models are provided as a [SolveSpace](//solvespace.com) model,
+	an interactive Three.js model (linked in headers),
+	a STEP file, which (currently) [doesn't include the colours](https://github.com/solvespace/solvespace/issues/452)
+	(if you're familiar with ISO-10303-21, do please consider supporting the aforementioned issue),
+	and a WRL file (NB: exported at 1:2.54 scale from SolveSpace to match KiCad's scaling),
+	the latter two of which can be used directly by KiCad.
 
 Symbols are provided as individual KiCad libraries.
 
